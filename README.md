@@ -10,4 +10,7 @@ This is a proof of concept for a form builder library that satisfies the followi
 
 Just clone and open `index.html`
 
-![](./fancy-forms.mov)
+
+
+https://github.com/axelerator/fancy-forms-poc/assets/356241/c3beaf77-a211-4331-a72a-822cd3245ac0
+
